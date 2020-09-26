@@ -1,0 +1,10 @@
+**/.gradle
+**/.nb-gradle
+**/nbproject
+**/build
+*.zip
+*.jar
+**/.idea
+/gradle/wrapper/
+/gradlew
+/gradlew.bat
